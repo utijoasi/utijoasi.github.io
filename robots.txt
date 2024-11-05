@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://utijoasi.github.io/Qto/sitemap_index.txt
+Sitemap: https://utijoasi.github.io/Uhn/sitemap_index.txt
+Sitemap: https://utijoasi.github.io/ugy/sitemap_index.txt
+Sitemap: https://utijoasi.github.io/xMD/sitemap_index.txt
